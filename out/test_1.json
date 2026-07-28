@@ -1,0 +1,97 @@
+{
+  "source": "test_1.jpg",
+  "bubbles": [
+    {
+      "id": 0,
+      "bubble_type": "shout",
+      "confidence": 0.218,
+      "bbox": {
+        "x": 172,
+        "y": 2334,
+        "w": 265,
+        "h": 243
+      },
+      "text_original": "나좀:",
+      "text_translated": ""
+    },
+    {
+      "id": 1,
+      "bubble_type": "shout",
+      "confidence": 0.196,
+      "bbox": {
+        "x": 102,
+        "y": 5416,
+        "w": 588,
+        "h": 488
+      },
+      "text_original": "그만 따라오라고",
+      "text_translated": ""
+    },
+    {
+      "id": 2,
+      "bubble_type": "shout",
+      "confidence": 0.25,
+      "bbox": {
+        "x": 398,
+        "y": 7023,
+        "w": 354,
+        "h": 339
+      },
+      "text_original": "",
+      "text_translated": ""
+    },
+    {
+      "id": 3,
+      "bubble_type": "shout",
+      "confidence": 0.235,
+      "bbox": {
+        "x": 73,
+        "y": 9896,
+        "w": 433,
+        "h": 356
+      },
+      "text_original": "야단낫다. 이래가지곤 정리가 안 돼.",
+      "text_translated": ""
+    },
+    {
+      "id": 4,
+      "bubble_type": "shout",
+      "confidence": 0.173,
+      "bbox": {
+        "x": 303,
+        "y": 11347,
+        "w": 462,
+        "h": 292
+      },
+      "text_original": "시험이고 나발이고 내가 죽게 생격어.",
+      "text_translated": ""
+    },
+    {
+      "id": 5,
+      "bubble_type": "shout",
+      "confidence": 0.192,
+      "bbox": {
+        "x": 56,
+        "y": 11806,
+        "w": 479,
+        "h": 386
+      },
+      "text_original": "트록 100마리블 하나하나 쓰러트리고 마나학올 빼오라니,",
+      "text_translated": ""
+    },
+    {
+      "id": 6,
+      "bubble_type": "shout",
+      "confidence": 0.158,
+      "bbox": {
+        "x": 324,
+        "y": 14080,
+        "w": 419,
+        "h": 327
+      },
+      "text_original": "정말 가능하긴 한 거야?!",
+      "text_translated": ""
+    }
+  ],
+  "excluded_non_bubble_text_count": 3
+}

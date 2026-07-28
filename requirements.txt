@@ -1,0 +1,11 @@
+opencv-python>=4.8
+numpy>=1.24
+Pillow>=10.0
+easyocr>=1.7
+deep-translator>=1.11
+torch>=2.0
+transformers>=4.45
+
+# Optional: only needed if you use --backend manga-ocr (Japanese-only, higher
+# accuracy on Japanese manga specifically than the general easyocr backend)
+# manga-ocr>=0.1.11

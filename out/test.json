@@ -1,0 +1,97 @@
+{
+  "source": "test.jpg",
+  "bubbles": [
+    {
+      "id": 0,
+      "bubble_type": "shout",
+      "confidence": 0.14,
+      "bbox": {
+        "x": 478,
+        "y": 569,
+        "w": 259,
+        "h": 257
+      },
+      "text_original": "一天界、",
+      "text_translated": ""
+    },
+    {
+      "id": 1,
+      "bubble_type": "speech",
+      "confidence": 0.808,
+      "bbox": {
+        "x": 492,
+        "y": 3301,
+        "w": 246,
+        "h": 345
+      },
+      "text_original": "感じたでしょ？",
+      "text_translated": ""
+    },
+    {
+      "id": 2,
+      "bubble_type": "shout",
+      "confidence": 0.101,
+      "bbox": {
+        "x": 90,
+        "y": 4239,
+        "w": 152,
+        "h": 211
+      },
+      "text_original": "ああ．．．",
+      "text_translated": ""
+    },
+    {
+      "id": 3,
+      "bubble_type": "speech",
+      "confidence": 0.3,
+      "bbox": {
+        "x": 61,
+        "y": 4355,
+        "w": 210,
+        "h": 120
+      },
+      "text_original": "そういえば、",
+      "text_translated": ""
+    },
+    {
+      "id": 4,
+      "bubble_type": "speech",
+      "confidence": 0.895,
+      "bbox": {
+        "x": 235,
+        "y": 4747,
+        "w": 330,
+        "h": 374
+      },
+      "text_original": "どこかにとてつもなく強力な神力が現れた",
+      "text_translated": ""
+    },
+    {
+      "id": 5,
+      "bubble_type": "speech",
+      "confidence": 0.822,
+      "bbox": {
+        "x": 89,
+        "y": 7065,
+        "w": 282,
+        "h": 381
+      },
+      "text_original": "また新しい王が誕生したのか？",
+      "text_translated": ""
+    },
+    {
+      "id": 6,
+      "bubble_type": "speech",
+      "confidence": 0.803,
+      "bbox": {
+        "x": 410,
+        "y": 7344,
+        "w": 281,
+        "h": 385
+      },
+      "text_original": "まだ２００年しか経ってないのに？",
+      "text_translated": ""
+    }
+  ],
+  "excluded_non_bubble_text_count": 4
+}
